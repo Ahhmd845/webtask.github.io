@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .styled-link {
+    text-decoration: none;
+    color: white;
+    background-color: #007BFF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  .styled-link:hover {
+    background-color: #0056b3;
+  }  
+  body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, rgb(5, 117, 121),rgb(74, 237, 243));
+    margin: 0;
+    height: 100vh;
+    color: #fff;
+    
+}
+.wrapper{
+  position: relative;
+  width: 400px;
+  height: 550px;
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, .5);
+  border-radius: 20px;
+  backdrop-filter: blur(20px);
+}
+body {
+  background: url(business\ 2\ img.png) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
